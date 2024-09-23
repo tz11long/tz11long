@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Galaxy! 👋
 
 <!--
 **tz11long/tz11long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
